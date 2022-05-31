@@ -1,7 +1,6 @@
-package CollectionFramework;
+package collectionFramework;
 
 import java.util.ArrayList;
-import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.Scanner;
@@ -53,6 +52,7 @@ public class ArrayListCollection {
             System.out.println(ele);
         }
 
+        System.out.println("\n2D arraylist :");
         ArrayList<ArrayList<Integer>> twoDList = new ArrayList<>();
         for(int i=0; i<3; ++i) {
             twoDList.add(new ArrayList<>());
