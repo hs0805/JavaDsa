@@ -1,0 +1,10 @@
+# Binary Search
+- [Binary Search]()
+- [Floor And Ceiling](./src/binarySearch/FloorAndCeiling.java)
+- [search Infinite array](./src/binarySearch/SearchInInfiniteArray.java)
+- [First and Last Index](./src/binarySearch/FirstAndLastIndex.java)
+- [Smallest Letter Greater than Target](./src/binarySearch/SmallestLetterGreaterThanTarget.java)
+- [Peak in mountain array](./src/binarySearch/FindPeakInMountainArray.java)
+- [Search in mountain array](./src/binarySearch/SearchInMountainArray.java)
+- [Peak in sorted rotated Binary Search](./src/binarySearch/PeakInSortedRotatedBS.java)
+- [Find Rotation Count](./src/binarySearch/FindRotationCount.java)

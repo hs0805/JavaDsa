@@ -30,9 +30,8 @@ public class VectorCollection {
 
         //With new keyword everytime new memory is allocated in heap.
         //W
-        String s = new String("aadibsdka");     
-        String t = new String("aadibsdka");
-        // t = t.concat("chutiya");
+        String s = new String("aadityasinha");
+        String t = new String("aadityasinha");
         System.out.println(t);
         System.out.println(s.hashCode() + "  "+ t.hashCode());  // hashcode depends on content not on object
         System.out.println("Reference pointing to same object :" + (s == t)); // == checks for reference 
