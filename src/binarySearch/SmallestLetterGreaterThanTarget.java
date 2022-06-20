@@ -13,6 +13,7 @@ public class SmallestLetterGreaterThanTarget {
             if(target < letters[m]) e = m-1;
             else s = m+1;
         }
+        Math.sqrt(20);
         return letters[s%n];
     }
 }
