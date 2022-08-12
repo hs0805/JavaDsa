@@ -1,0 +1,6 @@
+- JWT Authentication        : https://www.youtube.com/watch?v=mbsmsi7l3r4
+- type google.com           : https://www.youtube.com/watch?v=dh406O2v_1c    /    https://github.com/alex/what-happens-when 
+- OSI Model                 : https://www.youtube.com/watch?v=7IS7gigunyI
+- SSH working               : https://www.youtube.com/watch?v=lRMAJwMQ0Vc
+- Digital Certificates      : https://www.youtube.com/watch?v=5rT6fZUwhG8
+- Encryption                : https://www.youtube.com/watch?v=q9vu6_2r0o4
